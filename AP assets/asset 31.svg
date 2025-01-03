@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-v-325ff91a="" viewBox="0 0 200 200" class="burger medium"><g class="group group-1" style="translate: none; rotate: none; scale: none; transform-origin: 0px 0px;" data-svg-origin="100 100" transform="matrix(1,0,0,1,0,-27)">
+            <line class="hand hand-1" x1="0" y1="100" x2="100" y2="100" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" style="translate: none; rotate: none; scale: none; transform-origin: 0px 0px;" data-svg-origin="100 100" transform="matrix(1,0,0,1,0,0)"/>
+            <line class="hand hand-4" x1="100" y1="100" x2="200" y2="100" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" style="translate: none; rotate: none; scale: none; transform-origin: 0px 0px;" data-svg-origin="100 100" transform="matrix(1,0,0,1,0,0)"/>
+        </g>
+        <g class="group group-2" style="translate: none; rotate: none; scale: none; transform-origin: 0px 0px;" data-svg-origin="100 100" transform="matrix(1,0,0,1,0,27)">
+            <line class="hand hand-2" x1="0" y1="100" x2="100" y2="100" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" style="translate: none; rotate: none; scale: none; transform-origin: 0px 0px;" data-svg-origin="100 100" transform="matrix(1,0,0,1,0,0)"/>
+            <line class="hand hand-3" x1="100" y1="100" x2="200" y2="100" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" style="translate: none; rotate: none; scale: none; transform-origin: 0px 0px;" data-svg-origin="100 100" transform="matrix(1,0,0,1,0,0)"/>
+        </g></svg>
